@@ -2,7 +2,8 @@
 
 #This simple script will autocompile program
 
-#changing directory to build to not create mess in main folder
+#creating and changing directory to build to not create mess in main folder
+mkdir build
 cd build
 
 #building program & executables
